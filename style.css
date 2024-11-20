@@ -124,6 +124,8 @@ body {
   grid-template-columns: repeat(3, 1fr);
   place-items: center;
   column-gap: 20px;
+  justify-self: center;
+  align-self: center;
 }
 
 .car_image {
